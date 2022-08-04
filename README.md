@@ -1,5 +1,4 @@
-# shop-client
-
+# shop-client-Projec
 ## Project setup
 ```
 npm install
